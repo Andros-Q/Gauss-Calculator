@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: Androsy Droid
+Main-Class: Gauss
+X-COMMENT: Calculadora Gauss
+
